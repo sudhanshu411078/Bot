@@ -1,0 +1,6 @@
+telebot
+flask
+psutil
+requests
+pyTelegramBotAPI
+gunicorn
